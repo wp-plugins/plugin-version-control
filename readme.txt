@@ -13,9 +13,9 @@ Provides easy way to 'roll back' and 'roll forward' plugin versions that support
 
 == Description ==
 
-This plugin provides the ability to select any plugin version available in the WordPress SVN for plugins that support version tagging.
+Provides easy way to 'roll back' and 'roll forward' plugin versions that support version tagging.
 
-Warning, this plugin cannot reverse database upgrade routines implemented by installing and activating plugins that employ them. Plugin upgrades that run database upgrade routines may not be advisable to roll back. You will want to contact and ask the plugin developer if it is safe to roll back a version.
+Please not though that this plugin cannot reverse database upgrade routines that hav implemented. You will want to contact and ask the plugin developer if it is safe to roll back a version.
 
 = Highlights =
 
