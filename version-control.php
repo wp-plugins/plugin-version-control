@@ -4,7 +4,7 @@ Plugin Name: Plugin Version Switching
 Plugin URI: http://www.hudsonatwell.co
 Description: Provides easy way to 'roll back' and 'roll forward' plugin versions that support version tagging.
 Version: 1.0.1
-Author: adbox,Hudson Atwell
+Author: Hudson Atwell
 Author URI: http://www.hudsonatwell.co
 Text Domain: version-control
 Domain Path: lang
