@@ -15,7 +15,7 @@ Provides easy way to 'roll back' and 'roll forward' plugin versions that support
 
 Provides easy way to 'roll back' and 'roll forward' plugin versions that support version tagging.
 
-Please not though that this plugin cannot reverse database upgrade routines that hav implemented. You will want to contact and ask the plugin developer if it is safe to roll back a version.
+Please note though that this plugin cannot reverse database upgrade routines that hav implemented. You will want to contact and ask the plugin developer if it is safe to roll back a version.
 
 = Highlights =
 
@@ -24,7 +24,7 @@ Please not though that this plugin cannot reverse database upgrade routines that
 
 = About the Plugin =
 
-This plugin was built in response to an ongoing conversation hosted on the [WP Chat ](http://wpchat.com/t/looking-for-good-resources-on-starting-a-beta-team-and-gaining-in-quality-assurance/549/6 "Looking for good resources on starting a beta team and gaining in quality assurance") covering quality control & plugin development. 
+This plugin was built in response to an ongoing conversation hosted on [WP Chat ](http://wpchat.com/t/looking-for-good-resources-on-starting-a-beta-team-and-gaining-in-quality-assurance/549/6 "Looking for good resources on starting a beta team and gaining in quality assurance") covering quality control & plugin development. 
 
 = Developers & Designers =
 
